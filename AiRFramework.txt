@@ -1,0 +1,67 @@
+OPEN SOURCE FRAMEWORK FOR POSITIONING THE ARTIST WITHIN HACKER/TECHNOLOGY SPACES
+
+The following is a set of suggestions/rules that I have created to facilitate the logistics of placing the artist (in residence) within a hacker/technology space. 
+
+For the purposes of this document: 
+1. “inhabitants” refers to individuals who work within the space and/or are members of the space
+
+2. “responsible parties” refers to the individuals chosen by the space to represent the needs/desires of the space for the purposes of this contractual agreement. 
+
+3. “the artist” refers to the individual entering into agreement with the space, to be placed in residency as an “artist”
+ 
+----- 1. SET A DISTINCT TIME-FRAME -----
+
+A. The “artist” will be present from __(time)___ to ___(time)__, from ____(date)___ to ____(date)___.
+
+------ 2. AGREE ON EXPECTED ATTITUDES ------
+* Note: The success of this endeavor is subject to an environment of mutual respect and understanding between the artist and other workers in the space.  Towards that end, the following attitudes and actions are strongly suggested: 
+
+A. The artist will respect and engage with the creative nature of the production activities within the space. 
+
+B. The artist will respect and engage with the creativity of the individuals working within the space. 
+
+C. Conversely, individuals within the space will respect the creativity of the artist. 
+
+D. All parties will endeavor to engage only in collaborations that are egalitarian, collaborations wherein neither the art nor the technology is enacted in service to the vision of the other. 
+
+----- 3. DEFINE A SET OF EXPECTED ACTIVITIES FOR THE ARTIST ----- 
+A. The artist will engage in his/her regular artistic practice as allowable by the space. 
+	A.1: In other words, the artist agrees to bring introduce their studio practice within 		the space, for the benefit of the space and its inhabitants.   
+	A.2: The artist is (of course) encouraged to use the space as inspiration and to modify their practice over the course of the residency based on that inspiration.  However, the artist should be aware of (and document) any adjustments to his/her methodologies, particularly in terms of personal aesthetics, perspectives, and medium. 
+
+---- 4. DEFINING DISCOURSE ---- 
+A. The artist will lend his/her aesthetic sensibility and/or visual arts skills to other workers in the space, as requested. 
+
+B. The artist will endeavor to engage in 2-way conversations about his/her individual practice and the practices of others in the space, as possible without disruption of the natural work-flow. 
+
+----- 5. DEFINING EXPECTED OUTCOMES ----- 
+*Note: Understanding that many spaces are not owned by the inhabitants, the artist should maintain an ongoing dialogue with responsible parties regarding any interventions or actions to ensure such interventions or actions do not place undue legal or financial hardship on the space or its inhabitants.
+
+The artist will endeavor to: 
+
+	A. create at least 1 work that responds to the space, its inhabitants, and the activities therein.  
+
+	B. create at least 1 non-destructive (as defined by the responsible parties *see above) artistic intervention in the space or activities therein. 
+
+	C. begin (at least) 1 project (object or experience) which is intended to have a lasting impact (as defined by the artist and the responsible parties) on the space and its inhabitants. 
+
+*Note: All of these requirements may be met by one (or many) works.
+
+----- 6. DOCUMENTING THE ACTIVITY -----
+*Note: It is imperative to the functioning of these residencies that the process be well documented and maintained in some sort of archive.  The suggested form of such an archive might be an internet-based blog.  However, the exact form of the archive should be agreed upon by the artist and the responsible parties. 
+
+A. All production during and resulting from the time of the residency will be documented.  The documentation of these activities will be made publicly available as an archive of the residency period. 
+
+----- 7. ESTABLISH OWNERSHIP OF THE OUTCOMES ----- 
+*Note: accepted open-source copyright and intellectual property licenses may be found at opensource.org. It is highly suggested that the space and the artist select and agree upon one of these licensing models to apply to any works that are created as a result of the residency period. 
+
+*Note2: All parties should be aware that the following section refers to works created as a direct result of the residency.  Considering this, any works created during the residency period, but which are not a direct result of the residency agreement may be exempt from these requirements.  Furthermore, works resulting from collaborations born out of the residency period, but which are not directly related to the residency might also be exempt from these requirements.  
+
+A. All works resulting directly from activities during the residency period will be fall under joint ownership of “the artist” and “the space.” 
+	A.1: The artist maintains the right to modify, use, exhibit or display any works resulting from the residency as they see fit. 
+	A.2: The space maintains the right to modify, use, exhibit, or display any works resulting from the residency as they see fit.  
+	A.3: In the event the intentions of the artist or the intentions of the space regarding these works come into conflict, the artist and the responsible parties will have to establish a mutually agreed upon compromise, which may result in ownership being passed solely to the artist or the space. 
+
+B. Furthermore, all such works will be made publicly available, will be treated as “open-source,” and will be considered a “community asset” or “public good”. These requirements should be enacted “as-possible” based on the format of the work.    
+
+C. Any persons or organizations attempting to purchase works resulting directly from the residency at a later date should be made aware of it's open status.  Furthermore, all parties holding ownership of the work at that time should be party to the transaction. 
